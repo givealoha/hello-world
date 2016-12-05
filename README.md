@@ -1,2 +1,3 @@
 # hello-world
 test repository
+Just a bit of information, nothing special...
